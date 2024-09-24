@@ -1,0 +1,10 @@
+npm i @angular\cli -g
+https://github.com/OfferingSolutions/Angular-Course
+github.com\FabianGosebrink
+https://stackblitz.com
+npm start
+ng generate component new-component
+Bindings:
+1. {{handle-bars}}
+2. [propertyName]="PropertyName"
+3. (event)="myFunction()"
